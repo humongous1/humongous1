@@ -35,8 +35,6 @@ I'm a detail-driven individual passionate about turning data into meaningful ins
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humongous1&layout=compact&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=humongous1&theme=radical&margin-w=10&margin-h=10)
 
-> Replace `humongous1` with your actual GitHub username for all the above links to work!
-
 ---
 
 ## 🔗 Let's Connect
