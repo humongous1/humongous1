@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm D R
 
-<!--
-**humongous1/humongous1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Com Graduate | 📊 Aspiring Data Analyst | 💻 Python Enthusiast
 
-Here are some ideas to get you started:
+- 🔭 I’m currently learning Data Science
+- 🌱 I’m exploring machine learning & financial modeling
+- 💬 Ask me about Excel, Power Query, Python, or Financial Analysis
+- 📫 How to reach me: dineshshiva91@gmail.com
+- ⚡ Fun fact: I love solving real-world problems with data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+Python, Excel, SQL, Power BI, Git, Pandas, NumPy
+
+## 📈 GitHub Stats
