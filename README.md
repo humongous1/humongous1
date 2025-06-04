@@ -31,9 +31,9 @@ I'm a detail-driven individual passionate about turning data into meaningful ins
 
 ## 📊 GitHub Stats & Trophies
 
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&margin-w=10&margin-h=10)
+![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=humongous1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humongous1&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=humongous1&theme=radical&margin-w=10&margin-h=10)
 
 > Replace `humongous1` with your actual GitHub username for all the above links to work!
 
